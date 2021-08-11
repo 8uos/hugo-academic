@@ -1,0 +1,34 @@
+---
+title: "Multiple Heads are Better than One: Few-shot Font Generation with Multiple Localized Experts"
+authors:
+- admin
+- Sanghyuk Chun
+- Junbum Cha
+- Bado Lee
+- Hyunjung Shim
+date: "2021-07-01T00:00:00Z"
+doi: ""
+
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
+
+# Publication name and optional abbreviated publication name.
+publication: in **International Conference on Computer Vision**
+publication_short: in **ICCV 2021**
+
+abstract: "A few-shot font generation (FFG) method has to satisfy two objectives: the generated images should preserve the underlying global structure of the target character and present the diverse local reference style. Existing FFG methods aim to disentangle content and style either by extracting a universal representation style or extracting multiple component-wise style representations. However, previous methods either fail to capture diverse local styles or cannot be generalized to a character with unseen components, e.g., unseen language systems. To mitigate the issues, we propose a novel FFG method, named Multiple Localized Experts Few-shot Font Generation Network (MX-Font). MX-Font extracts multiple style features not explicitly conditioned on component labels, but automatically by multiple experts to represent different local concepts, e.g., left-side sub-glyph. Owing to the multiple experts, MX-Font can capture diverse local concepts and show the generalizability to unseen languages. During training, we utilize component labels as weak supervision to guide each expert to be specialized for different local concepts. We formulate the component assign problem to each expert as the graph matching problem, and solve it by the Hungarian algorithm. We also employ the independence loss and the content-style adversarial loss to impose the content-style disentanglement. In our experiments, MX-Font outperforms previous state-of-the-art FFG methods in the Chinese generation and cross-lingual, e.g., Chinese to Korean, generation."
+
+tags:
+- Few-shot Font Generation
+- Image to Image Translation
+featured: false
+
+links:
+url_pdf: https://arxiv.org/pdf/2104.00887.pdf
+url_code: https://github.com/clovaai/mxfont
+
+---
