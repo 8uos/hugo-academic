@@ -73,4 +73,4 @@ highlight_name: false
 
 I am interested in interpreting and understanding visual concepts with multiple view points (e.g., mood, emotion, style, texture) to extract better visual representations for real-world downstream tasks. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://8uos.github.io/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
