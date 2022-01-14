@@ -6,11 +6,11 @@ title: Song Park
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Yonsei University
+- name: NAVER AI Lab.
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in interpreting and understanding visual concepts with multiple view points (e.g., mood, emotion, style, texture) to extract better visual representations for real-world downstream tasks. 
@@ -26,13 +26,17 @@ education:
   courses:
   - course: M.S. and Ph.D 
     institution: Integrated Technology, Yonsei University
-    year: Mar 2016 - Present
+    year: Mar 2016 - Feb 2022
   - course: B.S. 
     institution: Integrated Technology, Yonsei University
     year: Mar 2013 - Feb 2016
 
 experiences:
   works:
+  - position: Research Scientist
+    icon: naver
+    company: NAVER AI Lab
+    year: Jan 2022 - Current
   - position: Visiting Researcher
     icon: naver
     company: NAVER AI Lab
