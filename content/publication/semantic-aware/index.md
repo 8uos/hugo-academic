@@ -3,6 +3,7 @@ title: "Semantic-aware Neural Style Transfer"
 authors:
 - Joo Hyun Park
 - admin
+- Hyunjung Shim
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
